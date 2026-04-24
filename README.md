@@ -1,5 +1,5 @@
 # Black-Hops-Farm-3D-Rendering
-## 3D Farm Modeling & DSM Creation (Loudoun County, VA)
+## 3D Farm Modeling & DSM Creation (Lucketts, Loudoun County, VA)
 Integrated multi-source geospatial datasets and executed raster/vector workflows (merge, buffer, raster calculator) in ArcGIS Pro to generate a Digital Surface Model for 3D landscape visualization 
 
 This was my final project in the GIS 3-Dimensional Analysis course at Northern Virginia Community College, which I completed in May 2025. The end goal was to create a 3D model of the farm where I was employed when I completed the course. 
